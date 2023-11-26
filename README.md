@@ -1,3 +1,5 @@
+https://docs.google.com/document/d/1QEYfLFYRUg4wvXV0SZO4EQZSPZduOb0DYUMJ8YGjoYg/edit?usp=drivesdk
+
 БД И СУБД
 https://docs.google.com/document/d/1XoxVSRgI_lZt8VUD2I6rziGeXQgyv9mZfu7qhtQLC44/edit?usp=drivesdk
 
