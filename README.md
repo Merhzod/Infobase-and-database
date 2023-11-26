@@ -1,3 +1,6 @@
+БД И СУБД
+https://docs.google.com/document/d/1XoxVSRgI_lZt8VUD2I6rziGeXQgyv9mZfu7qhtQLC44/edit?usp=drivesdk
+
 https://docs.google.com/document/d/1RvUzw8M8pCS7ASh1X6ByaHTOuf6TPI0SYQgcs7h66sY/edit?usp=drivesdk
 
 https://docs.google.com/document/d/1d6p3_9TyCmVwyVfIP-CmXFwzCCTcgmMkZLWNLEnp5tI/edit?usp=drivesdk
