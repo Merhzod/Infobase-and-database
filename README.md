@@ -1,4 +1,4 @@
-Ответи на вопросы 
+Ответы на вопросы 
 https://docs.google.com/document/d/1QEYfLFYRUg4wvXV0SZO4EQZSPZduOb0DYUMJ8YGjoYg/edit?usp=drivesdk
 
 БД И СУБД
