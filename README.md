@@ -1,3 +1,5 @@
+https://1top4ik1.github.io/sait/
+
 Конспекты и задачи по Python 
 https://docs.google.com/document/d/1px9nUVrzbrdvlSgrhnz1CcgNt2sIJrVT0BOICo9RrsM/edit?usp=drivesdk
 
