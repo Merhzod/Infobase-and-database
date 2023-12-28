@@ -1,6 +1,7 @@
 
 Конспекты и задачи по Python 
 https://docs.google.com/document/d/1px9nUVrzbrdvlSgrhnz1CcgNt2sIJrVT0BOICo9RrsM/edit?usp=drivesdk
+https://docs.google.com/document/d/1crFlU8zwJgq8GCsoDDTb77GZ7DmvunxHY_wFs1yjkG0/edit?usp=drivesdk
 
 Ответы на вопросы 
 https://docs.google.com/document/d/1QEYfLFYRUg4wvXV0SZO4EQZSPZduOb0DYUMJ8YGjoYg/edit?usp=drivesdk
