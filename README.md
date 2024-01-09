@@ -17,3 +17,5 @@ https://docs.google.com/document/d/1d6p3_9TyCmVwyVfIP-CmXFwzCCTcgmMkZLWNLEnp5tI/
 
 Ip- адреса 
 https://docs.google.com/document/d/14wDWcFVfJyqHCW0sVjK6KBKSpKydqAKx5d2Ef64GnPo/edit?usp=drivesdk
+
+https://drive.google.com/file/d/1oVTdA9Wacvguhoxxt1EC3foDH88kgDru/view?usp=drive_link
